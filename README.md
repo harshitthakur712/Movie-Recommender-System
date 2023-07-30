@@ -1,7 +1,6 @@
 ## _Movie Recommender System_
 
-> Check out my detailed description of the project in my Medium story. 
-https://medium.com/@karrmanbhatia29/movie-recommender-system-project-1a17c4d55136
+
 
 
 ![image](https://github.com/Karrmanbhatia/Movie-Recommender-System/blob/main/recommendations.gif)
